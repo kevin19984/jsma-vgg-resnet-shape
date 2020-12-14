@@ -3,6 +3,6 @@
 2. measure transferability of jsma attack without knowledge of target model
 
 # version
-python 3.6.9
-tensorflow 1.5
-cleverhans 3.0.1
+1. python 3.6.9
+2. tensorflow 1.5
+3. cleverhans 3.0.1
